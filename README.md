@@ -11,16 +11,32 @@
 - ⚡ Fun fact: There is nothing funny about me (sed lyf)
 
 <br/>
+
+
+
 ---
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OyePradumya&layout=compact&langs_count=6)]
+
+
 <br/>
+
+
 ---
+
+
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 <br/>
+
+
 ---
+
+
 ### Connect with me:
 
 [<img align="left" alt="oyenautanki.ml" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://oyenautanki.ml)
@@ -30,7 +46,11 @@
 [<img align="left" alt="OyePradumya | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/oyepradumya)
 <br/>
 <br/>
+
+
 ---
+
+
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=OyePradumya&theme=chartreuse-dark&show_icons=true)]
 
 
