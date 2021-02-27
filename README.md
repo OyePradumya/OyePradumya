@@ -18,7 +18,7 @@
 
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OyePradumya&theme=chartreuse-dark&layout=compact&langs_count=6" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OyePradumya&theme=chartreuse-dark&layout=compact&langs_count=6" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=OyePradumya&theme=chartreuse-dark&show_icons=true"></img>
 
@@ -26,7 +26,6 @@
 <br/>
 
 
----
 
 
 ### Spotify Playing 🎧
@@ -36,18 +35,18 @@
 <br/>
 
 
----
 
 
 ### Connect with me:
 
-[<img align="left" alt="oyenautanki.ml" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://oyenautanki.ml)
-[<img align="left" alt="OyeNautanki | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCQmaknLBt4CKFFB6RGxe56w)
+[<img align="left" alt="oyenautanki.ml" width="22px" src="https://github.com/OyePradumya/OyePradumya/blob/master/assets/world-wide-web.svg" />](https://oyenautanki.ml)
+[<img align="left" alt="OyeNautanki | YouTube" width="22px" src="https://github.com/OyePradumya/OyePradumya/blob/master/assets/youtube.svg" />](https://www.youtube.com/channel/UCQmaknLBt4CKFFB6RGxe56w)
 [<img align="left" alt="OyePradumya | Twitter" width="22px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />" />](https://twitter.com/OyePradumya)
-[<img align="left" alt="OyePradumya | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/profile/OyePradumya)
-[<img align="left" alt="OyePradumya | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/oyepradumya)
-<br/>
-<br/>
+[<img align="left" alt="OyePradumya | LinkedIn" width="22px" src="https://github.com/OyePradumya/OyePradumya/blob/master/assets/linkedin.svg" />](https://www.linkedin.com/profile/OyePradumya)
+[<img align="left" alt="OyePradumya | Instagram" width="22px" src="https://github.com/OyePradumya/OyePradumya/blob/master/assets/instagram.svg" />](https://www.instagram.com/oyepradumya)
+[<img align="left" alt="OyePradumya | Telegram" width="22px" src="https://github.com/OyePradumya/OyePradumya/blob/master/assets/telegram.svg" />](https://t.me/ProgrammingProjectsForAll)
+
+
 
 
 ---
