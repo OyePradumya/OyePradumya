@@ -28,18 +28,13 @@
 
 
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
-<br/>
 
 
 
 
 ### Connect with me:
 
-[<img align="left" alt="oyenautanki.ml" width="22px" src="https://github.com/OyePradumya/OyePradumya/blob/master/assets/world-wide-web.svg" />](https://oyenautanki.ml)
+[<img align="left" alt="projectnow.ml" width="22px" src="https://github.com/OyePradumya/OyePradumya/blob/master/assets/world-wide-web.svg" />](https://projectnow.ml)
 [<img align="left" alt="OyeNautanki | YouTube" width="22px" src="https://github.com/OyePradumya/OyePradumya/blob/master/assets/youtube.svg" />](https://www.youtube.com/channel/UCQmaknLBt4CKFFB6RGxe56w)
 [<img align="left" alt="OyePradumya | Twitter" width="22px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />](https://twitter.com/OyePradumya)
 [<img align="left" alt="OyePradumya | LinkedIn" width="22px" src="https://github.com/OyePradumya/OyePradumya/blob/master/assets/linkedin.svg" />](https://www.linkedin.com/profile/OyePradumya)
