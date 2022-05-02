@@ -1,7 +1,7 @@
 ### Hi there, I'm Pradumya Shrivastava 👋
 
-[![Website](https://img.shields.io/website?label=PERSONAL WEBSITE&style=for-the-badge&url=https%3A%2F%2Fpradumya.in)](https://pradumya.in)
-![Twitter Follow](https://img.shields.io/twitter/follow/OyePradumya?color=%231DA1F2&logo=Twitter&style=for-the-badge)
+[![Website](https://img.shields.io/website?label=PERSONAL%20WEBSITE&style=for-the-badge&url=https%3A%2F%2Fpradumya.in)](https://pradumya.in)
+
 
 ## I'm a Student struggling in scoring marks to satisfy my parents!!
 
