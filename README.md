@@ -5,6 +5,9 @@
 
 ## I'm a Student struggling in scoring marks to satisfy my parents!!
 
+### Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/OyePradumya/count.svg)
+
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to grow my [YouTube](https://www.youtube.com/channel/UCQmaknLBt4CKFFB6RGxe56w) channel
 - 🥅 2021 Goals: Road to gain experience of corporate world.
