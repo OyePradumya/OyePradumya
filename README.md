@@ -37,7 +37,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="pradumya.i0" width="22px" src="https://github.com/OyePradumya/OyePradumya/blob/master/assets/world-wide-web.svg" />](https://projectnow.io)
+[<img align="left" alt="pradumya.io" width="22px" src="https://github.com/OyePradumya/OyePradumya/blob/master/assets/world-wide-web.svg" />](https://projectnow.io)
 [<img align="left" alt="OyeNautanki | YouTube" width="22px" src="https://github.com/OyePradumya/OyePradumya/blob/master/assets/youtube.svg" />](https://www.youtube.com/channel/UCQmaknLBt4CKFFB6RGxe56w)
 [<img align="left" alt="OyePradumya | Twitter" width="22px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />](https://twitter.com/OyePradumya)
 [<img align="left" alt="OyePradumya | LinkedIn" width="22px" src="https://github.com/OyePradumya/OyePradumya/blob/master/assets/linkedin.svg" />](https://www.linkedin.com/in/Pradumya)
