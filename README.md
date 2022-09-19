@@ -1,6 +1,6 @@
 ### Hi there, I'm Pradumya Shrivastava 👋
 
-[![Website](https://img.shields.io/website?label=PERSONAL%20WEBSITE&style=for-the-badge&url=https%3A%2F%2Fpradumya.io)](https://pradumya.io)
+[![Website](https://img.shields.io/website?label=PERSONAL%20WEBSITE&style=for-the-badge&url=https%3A%2F%2Fpradumya.io)](https://oyepradumya.github.io/projectNOW)
 
 
 ## I'm a Student struggling in scoring marks to satisfy my parents!!
